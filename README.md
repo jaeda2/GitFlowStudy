@@ -1,5 +1,4 @@
 # GitFlowStudy
-<hr>
 
 목표 : Git Flow 공부해보자!
 
